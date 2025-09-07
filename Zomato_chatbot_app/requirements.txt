@@ -1,0 +1,25 @@
+# ───── Core ML & Google Gemini ─────
+google-generativeai
+python-dotenv
+
+# ───── FAISS for Embeddings ─────
+faiss-cpu
+
+# ───── Streamlit Frontend ─────
+streamlit
+
+# ───── Utility ─────
+numpy
+tqdm
+
+# ───── Web Scraping (Kept from original file) ─────
+beautifulsoup4
+selenium
+lxml
+requests
+urllib3
+html5lib
+fake-useragent
+
+# Optional but helpful for working with CSV, OS, etc.
+pandas
